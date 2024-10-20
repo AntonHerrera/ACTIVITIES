@@ -5,9 +5,9 @@
     </head>
     <body>
         <center>
-      <h1>Anton Mar O. Herrera</h1>
+      <h1 style="color:black;">Anton Mar O. Herrera</h1>
       <p>Freelance Artist</p>
-      <p>Specializes in: Tradtional Art and Digital Art Illustrations<p>
+      <p style="color:blue;">Specializes in: Tradtional Art and Digital Art Illustrations<p>
     </body>
   </html>
 
