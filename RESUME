@@ -3,11 +3,13 @@
     <head>
     <title>Resume Title</title>
     </head>
-    <body>
+    <body style="background-color:#efb6d4;">
         <center>
       <h1 style="color:black;">Anton Mar O. Herrera</h1>
       <p>Freelance Artist</p>
-      <p style="color:blue;">Specializes in: Tradtional Art and Digital Art Illustrations<p>
+      <p style="color:blue;">Specializes in: Tradtional Art, Digital Art Illustrations and 3D Modeling and Animation<p>
     </body>
+<style
+      
   </html>
 
